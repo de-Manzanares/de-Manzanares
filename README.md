@@ -1,28 +1,30 @@
-### Hi, my name is Drake.
+Hello. I am an upper-level undergraduate in mathematics. I enjoy skiing, peakbagging, and of course maths, and C++. 
 
-- self-~~taught~~-learning software developer
-- interested in data-processing/headless kinda stuff
+---
 
-### Learning
+#### Some of my projects: 
 
-- front-end compiler theory
-- x86-64
-- Zig
-
-### Some of my projects
-
-| name                                                          | description                                       |
+|                                                               |                                                   |
 |---------------------------------------------------------------|---------------------------------------------------|
-| [Raab-bot](https://github.com/de-Manzanares/Raab-bot)         | a fairly terrible chess engine, due for a rewrite |
-| [sch](https://github.com/de-Manzanares/sch)                   | a multiple-precision integer for C++              |
+| [Raab-bot](https://github.com/de-Manzanares/Raab-bot)         | chess engine                                      |
+| [sch](https://github.com/de-Manzanares/sch)                   | multiple-precision integer for C++                |
 | [SudokuSolver](https://github.com/de-Manzanares/SudokuSolver) | solve sudoku with human-style techniques          |
 | [WordleSolver](https://github.com/de-Manzanares/WordleSolver) | multithreaded entropy-based Wordle solver         |
 
-<div align='center'>
-<a href="https://github.com/de-Manzanares?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-Manzanares&hide_border=true&hide_title=true&theme=dark&bg_color=00000000&layout=compact&langs_count=20&hide=TeX,Shell,CMake&size_weight=1&count_weight=0"  alt=""/>
-</a>
-<a href="https://github.com/de-Manzanares?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=de-Manzanares&hide_border=true&hide_rank=true&hide_title=true&hide=prs,issues,contribs&show_icons=true&theme=dark&bg_color=00000000" alt=""/>
-</a>
-</div>
+--- 
+
+#### Skiing  
+Last big trip was to Pugratory, CO a few years ago. Due for another good trip. Top speed is $53 \text{ mph}$.
+
+#### Peakbagging
+Highest summit is Charleston Peak at approx. $11,916\text{ ft}$. Frustratingly close to breaking $12,000$. 
+
+#### Maths
+Outside of coursework, I am mainly focusing on partition theory (for now). 
+
+#### C++ 
+Thinking about making some sort of backgammon bot...
+
+---
+
+###### updated 2026.03.06
